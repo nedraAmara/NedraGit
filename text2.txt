@@ -1,1 +1,2 @@
-hello nedra
+hello nedra 
+hello git
